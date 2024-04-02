@@ -54,7 +54,7 @@ function clearData(){
     $("#children").value = "0";
     $("#room_type_1").checked = true;
     $("#bed_type_1").checked = true;
-    $("#checkbox").checked = false;
+    $("#smoking").checked = false;
     $("#contact_name").value = "";
     $("#contact_email").value = "";
     $("#contact_phone").value = "";
